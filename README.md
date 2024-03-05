@@ -1,1 +1,1 @@
-View the blog here: [link](janos-ijgyarto.github.io)
+View the blog here: [link](https://janos-ijgyarto.github.io)
