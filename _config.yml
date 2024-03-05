@@ -2,6 +2,13 @@ name: Janos Ijgyarto
 author: Janos Ijgyarto
 description: Developer blog
 
+# TODO: avatar!
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email: janos117@hotmail.com
+  github: janos-ijgyarto
+
 url: https://janos-ijgyarto.github.io/
 
 permalink: /:title/
