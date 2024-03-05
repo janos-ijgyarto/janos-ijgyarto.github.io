@@ -1,7 +1,8 @@
-title: Developer Blog
+name: Janos Ijgyarto Developer Blog
 author: Janos Ijgyarto
 description: Blog for dev diaries and for sharing thoughts and ideas
-theme: minima
+
+url: https://janos-ijgyarto.github.io/
 
 permalink: /:title/
 
