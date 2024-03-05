@@ -2,3 +2,27 @@ title: Developer Blog
 author: Janos Ijgyarto
 description: Blog for dev diaries and for sharing thoughts and ideas
 theme: minima
+
+permalink: /:title/
+
+version: v1.2.0
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :expanded
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
